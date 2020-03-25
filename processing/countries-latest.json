@@ -1,0 +1,799 @@
+[{
+    "country": "Afghanistan",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "40",
+    "deaths": 1,
+    "recovered": 1
+}, {
+    "country": "Albania",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "89",
+    "deaths": 2,
+    "recovered": 2
+}, {
+    "country": "Algeria",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "201",
+    "deaths": 17,
+    "recovered": 65
+}, {
+    "country": "Andorra",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "113",
+    "deaths": 1,
+    "recovered": 1
+}, {
+    "country": "Argentina",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "225",
+    "deaths": 4,
+    "recovered": 3
+}, {
+    "country": "Armenia",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "194",
+    "deaths": 0,
+    "recovered": 2
+}, {
+    "country": "Australia",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "1090",
+    "deaths": 7,
+    "recovered": 80
+}, {
+    "country": "Austria",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "3244",
+    "deaths": 16,
+    "recovered": 9
+}, {
+    "country": "Azerbaijan",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "65",
+    "deaths": 1,
+    "recovered": 10
+}, {
+    "country": "Bahrain",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "332",
+    "deaths": 2,
+    "recovered": 149
+}, {
+    "country": "Bangladesh",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "27",
+    "deaths": 2,
+    "recovered": 3
+}, {
+    "country": "Barbados",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "14",
+    "deaths": 0,
+    "recovered": 0
+}, {
+    "country": "Belgium",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "3401",
+    "deaths": 75,
+    "recovered": 263
+}, {
+    "country": "Bolivia",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "24",
+    "deaths": 0,
+    "recovered": 0
+}, {
+    "country": "Bosnia and Herzegovina",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "126",
+    "deaths": 1,
+    "recovered": 2
+}, {
+    "country": "Brazil",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "1593",
+    "deaths": 25,
+    "recovered": 2
+}, {
+    "country": "Brunei",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "88",
+    "deaths": 0,
+    "recovered": 2
+}, {
+    "country": "Bulgaria",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "187",
+    "deaths": 3,
+    "recovered": 3
+}, {
+    "country": "Burkina Faso",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "75",
+    "deaths": 4,
+    "recovered": 5
+}, {
+    "country": "Cambodia",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "84",
+    "deaths": 0,
+    "recovered": 1
+}, {
+    "country": "Cameroon",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "40",
+    "deaths": 0,
+    "recovered": 0
+}, {
+    "country": "Canada",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "1015",
+    "deaths": 11,
+    "recovered": 6
+}, {
+    "country": "Cape Verde",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "0",
+    "deaths": 0,
+    "recovered": 0
+}, {
+    "country": "Chile",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "632",
+    "deaths": 1,
+    "recovered": 8
+}, {
+    "country": "China",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "76516",
+    "deaths": 3210,
+    "recovered": 67549
+}, {
+    "country": "Colombia",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "231",
+    "deaths": 2,
+    "recovered": 3
+}, {
+    "country": "Congo (Kinshasa)",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "30",
+    "deaths": 1,
+    "recovered": 0
+}, {
+    "country": "Costa Rica",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "134",
+    "deaths": 2,
+    "recovered": 2
+}, {
+    "country": "Croatia",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "254",
+    "deaths": 1,
+    "recovered": 5
+}, {
+    "country": "Cuba",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "35",
+    "deaths": 1,
+    "recovered": 0
+}, {
+    "country": "Cyprus",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "95",
+    "deaths": 1,
+    "recovered": 3
+}, {
+    "country": "Czechia",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "1120",
+    "deaths": 1,
+    "recovered": 6
+}, {
+    "country": "Denmark",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "1514",
+    "deaths": 13,
+    "recovered": 1
+}, {
+    "country": "Dominica",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "1",
+    "deaths": 0,
+    "recovered": 0
+}, {
+    "country": "Dominican Republic",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "202",
+    "deaths": 3,
+    "recovered": 0
+}, {
+    "country": "East Timor",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "0",
+    "deaths": 0,
+    "recovered": 0
+}, {
+    "country": "Ecuador",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "789",
+    "deaths": 14,
+    "recovered": 3
+}, {
+    "country": "Egypt",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "327",
+    "deaths": 14,
+    "recovered": 56
+}, {
+    "country": "Estonia",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "326",
+    "deaths": 0,
+    "recovered": 2
+}, {
+    "country": "Eswatini",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "4",
+    "deaths": 0,
+    "recovered": 0
+}, {
+    "country": "Ethiopia",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "11",
+    "deaths": 0,
+    "recovered": 4
+}, {
+    "country": "Fiji",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "2",
+    "deaths": 0,
+    "recovered": 0
+}, {
+    "country": "Finland",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "626",
+    "deaths": 1,
+    "recovered": 10
+}, {
+    "country": "France",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "16018",
+    "deaths": 674,
+    "recovered": 2200
+}, {
+    "country": "Gabon",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "5",
+    "deaths": 1,
+    "recovered": 0
+}, {
+    "country": "Georgia",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "54",
+    "deaths": 0,
+    "recovered": 3
+}, {
+    "country": "Germany",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "24873",
+    "deaths": 94,
+    "recovered": 266
+}, {
+    "country": "Ghana",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "24",
+    "deaths": 1,
+    "recovered": 0
+}, {
+    "country": "Greece",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "624",
+    "deaths": 15,
+    "recovered": 19
+}, {
+    "country": "Grenada",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "1",
+    "deaths": 0,
+    "recovered": 0
+}, {
+    "country": "Guadeloupe",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "56",
+    "deaths": 0,
+    "recovered": 0
+}, {
+    "country": "Guam",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "0",
+    "deaths": 1,
+    "recovered": 0
+}, {
+    "country": "Guatemala",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "19",
+    "deaths": 1,
+    "recovered": 0
+}, {
+    "country": "Honduras",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "26",
+    "deaths": 0,
+    "recovered": 0
+}, {
+    "country": "Hungary",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "131",
+    "deaths": 6,
+    "recovered": 16
+}, {
+    "country": "Iceland",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "568",
+    "deaths": 1,
+    "recovered": 36
+}, {
+    "country": "India",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "396",
+    "deaths": 7,
+    "recovered": 27
+}, {
+    "country": "Indonesia",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "514",
+    "deaths": 48,
+    "recovered": 29
+}, {
+    "country": "Iran",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "21638",
+    "deaths": 1685,
+    "recovered": 7931
+}, {
+    "country": "Iraq",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "233",
+    "deaths": 20,
+    "recovered": 57
+}, {
+    "country": "Ireland",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "906",
+    "deaths": 4,
+    "recovered": 5
+}, {
+    "country": "Israel",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "1071",
+    "deaths": 1,
+    "recovered": 37
+}, {
+    "country": "Italy",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "59138",
+    "deaths": 5476,
+    "recovered": 7024
+}, {
+    "country": "Japan",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "1086",
+    "deaths": 40,
+    "recovered": 235
+}, {
+    "country": "Jordan",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "112",
+    "deaths": 0,
+    "recovered": 1
+}, {
+    "country": "Kazakhstan",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "60",
+    "deaths": 0,
+    "recovered": 0
+}, {
+    "country": "Kenya",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "15",
+    "deaths": 0,
+    "recovered": 0
+}, {
+    "country": "Korea, South",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "8897",
+    "deaths": 104,
+    "recovered": 2909
+}, {
+    "country": "Kuwait",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "188",
+    "deaths": 0,
+    "recovered": 27
+}, {
+    "country": "Latvia",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "139",
+    "deaths": 0,
+    "recovered": 1
+}, {
+    "country": "Lebanon",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "248",
+    "deaths": 4,
+    "recovered": 8
+}, {
+    "country": "Lithuania",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "131",
+    "deaths": 1,
+    "recovered": 1
+}, {
+    "country": "Luxembourg",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "798",
+    "deaths": 8,
+    "recovered": 6
+}, {
+    "country": "Malaysia",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "1306",
+    "deaths": 10,
+    "recovered": 139
+}, {
+    "country": "Malta",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "90",
+    "deaths": 0,
+    "recovered": 2
+}, {
+    "country": "Martinique",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "37",
+    "deaths": 1,
+    "recovered": 0
+}, {
+    "country": "Mauritius",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "18",
+    "deaths": 1,
+    "recovered": 0
+}, {
+    "country": "Mayotte",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "11",
+    "deaths": 0,
+    "recovered": 0
+}, {
+    "country": "Mexico",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "251",
+    "deaths": 2,
+    "recovered": 4
+}, {
+    "country": "Moldova",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "94",
+    "deaths": 1,
+    "recovered": 1
+}, {
+    "country": "Monaco",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "23",
+    "deaths": 0,
+    "recovered": 1
+}, {
+    "country": "Montenegro",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "21",
+    "deaths": 0,
+    "recovered": 0
+}, {
+    "country": "Morocco",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "115",
+    "deaths": 4,
+    "recovered": 3
+}, {
+    "country": "Mozambique",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "1",
+    "deaths": 0,
+    "recovered": 0
+}, {
+    "country": "Nepal",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "2",
+    "deaths": 0,
+    "recovered": 1
+}, {
+    "country": "Netherlands",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "4212",
+    "deaths": 179,
+    "recovered": 2
+}, {
+    "country": "New Zealand",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "66",
+    "deaths": 0,
+    "recovered": 0
+}, {
+    "country": "Niger",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "2",
+    "deaths": 0,
+    "recovered": 0
+}, {
+    "country": "Nigeria",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "30",
+    "deaths": 0,
+    "recovered": 2
+}, {
+    "country": "North Macedonia",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "114",
+    "deaths": 1,
+    "recovered": 1
+}, {
+    "country": "Norway",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "2383",
+    "deaths": 7,
+    "recovered": 1
+}, {
+    "country": "Oman",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "55",
+    "deaths": 0,
+    "recovered": 17
+}, {
+    "country": "Pakistan",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "776",
+    "deaths": 5,
+    "recovered": 5
+}, {
+    "country": "Panama",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "245",
+    "deaths": 3,
+    "recovered": 0
+}, {
+    "country": "Paraguay",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "22",
+    "deaths": 1,
+    "recovered": 0
+}, {
+    "country": "Peru",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "363",
+    "deaths": 5,
+    "recovered": 1
+}, {
+    "country": "Philippines",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "380",
+    "deaths": 25,
+    "recovered": 17
+}, {
+    "country": "Poland",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "634",
+    "deaths": 7,
+    "recovered": 1
+}, {
+    "country": "Portugal",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "1600",
+    "deaths": 14,
+    "recovered": 5
+}, {
+    "country": "Puerto Rico",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "0",
+    "deaths": 1,
+    "recovered": 0
+}, {
+    "country": "Qatar",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "494",
+    "deaths": 0,
+    "recovered": 33
+}, {
+    "country": "Reunion",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "47",
+    "deaths": 0,
+    "recovered": 0
+}, {
+    "country": "Romania",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "433",
+    "deaths": 3,
+    "recovered": 64
+}, {
+    "country": "Russia",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "367",
+    "deaths": 0,
+    "recovered": 16
+}, {
+    "country": "Rwanda",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "19",
+    "deaths": 0,
+    "recovered": 0
+}, {
+    "country": "San Marino",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "160",
+    "deaths": 20,
+    "recovered": 4
+}, {
+    "country": "Saudi Arabia",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "511",
+    "deaths": 0,
+    "recovered": 16
+}, {
+    "country": "Senegal",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "67",
+    "deaths": 0,
+    "recovered": 5
+}, {
+    "country": "Serbia",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "222",
+    "deaths": 2,
+    "recovered": 1
+}, {
+    "country": "Singapore",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "455",
+    "deaths": 2,
+    "recovered": 144
+}, {
+    "country": "Slovakia",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "185",
+    "deaths": 1,
+    "recovered": 7
+}, {
+    "country": "Slovenia",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "414",
+    "deaths": 2,
+    "recovered": 0
+}, {
+    "country": "South Africa",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "274",
+    "deaths": 0,
+    "recovered": 0
+}, {
+    "country": "Spain",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "28768",
+    "deaths": 1772,
+    "recovered": 2575
+}, {
+    "country": "Sri Lanka",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "82",
+    "deaths": 0,
+    "recovered": 3
+}, {
+    "country": "Suriname",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "5",
+    "deaths": 0,
+    "recovered": 0
+}, {
+    "country": "Sweden",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "1934",
+    "deaths": 21,
+    "recovered": 16
+}, {
+    "country": "Switzerland",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "7245",
+    "deaths": 98,
+    "recovered": 131
+}, {
+    "country": "Syria",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "1",
+    "deaths": 0,
+    "recovered": 0
+}, {
+    "country": "Taiwan*",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "169",
+    "deaths": 2,
+    "recovered": 28
+}, {
+    "country": "Tanzania",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "12",
+    "deaths": 0,
+    "recovered": 0
+}, {
+    "country": "Thailand",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "599",
+    "deaths": 1,
+    "recovered": 44
+}, {
+    "country": "Timor-Leste",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "1",
+    "deaths": 0,
+    "recovered": 0
+}, {
+    "country": "Trinidad and Tobago",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "50",
+    "deaths": 0,
+    "recovered": 1
+}, {
+    "country": "Tunisia",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "75",
+    "deaths": 3,
+    "recovered": 1
+}, {
+    "country": "Turkey",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "1236",
+    "deaths": 30,
+    "recovered": 0
+}, {
+    "country": "Ukraine",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "73",
+    "deaths": 3,
+    "recovered": 1
+}, {
+    "country": "United Kingdom",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "5703",
+    "deaths": 281,
+    "recovered": 67
+}, {
+    "country": "Uruguay",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "135",
+    "deaths": 0,
+    "recovered": 0
+}, {
+    "country": "US",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "33193",
+    "deaths": 417,
+    "recovered": 178
+}, {
+    "country": "Venezuela",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "70",
+    "deaths": 0,
+    "recovered": 15
+}, {
+    "country": "Vietnam",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "113",
+    "deaths": 0,
+    "recovered": 17
+}, {
+    "country": "Zambia",
+    "date": "2020-03-22T00:00:00.000000Z",
+    "confirmed": "3",
+    "deaths": 0,
+    "recovered": 0
+}]
