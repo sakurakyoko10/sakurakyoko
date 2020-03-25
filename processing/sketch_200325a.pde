@@ -15,10 +15,12 @@ float lat = -37.8136;
 void setup() {
 
   size(600, 600, P3D);
-
+  earth = loadImage("earth.jpg");
   values = loadJSONArray("countries-latest.json");
   dataset = loadJSONArray("location.json");
-
+  noStroke();
+  globe = createShape(SPHERE,r);
+  globe.setTexture(earth);
 }
 
 void draw() {
@@ -81,7 +83,7 @@ void draw() {
     
 
     translate(x,y,z);
-    box(10);
+    box(number,5,5);
 
     
     popMatrix();
