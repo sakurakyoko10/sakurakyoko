@@ -4,12 +4,13 @@ float angle;
 Table table;
 float r = 200;
 
-PImage earth;
+PImage earth,sky;
 PShape globe;
 
 void setup() {
   size(600, 600, P3D);
   earth = loadImage("earth.jpg");
+  sky=loadImage("sky.jpg");
   table = loadTable("datasets.csv", "header");
 
   noStroke();
@@ -18,11 +19,11 @@ void setup() {
 }
 
 void draw() {
-  background(51);
+  image(sky,0,0,sky.width/3,sky.height/3);
   translate(width*0.5, height*0.5);
-  rotateY(angle);
-  angle += 0.01;
-
+  
+  angle=((width-mouseX)/60.0);
+  rotateY(-angle);
   lights();
   fill(200);
   noStroke();
